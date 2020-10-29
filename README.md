@@ -12,6 +12,8 @@ Un blog de prueba para el curso de GIt y GitHub de Platzi
 - El flujo de trabajo en GitHub
 - El verdadero amor por las buenas practicas
 - Trucos muy locos del profesor
+- Creado por AlexistoGame
+
 
 # Recodatorio
 Este Readme.md es un chiste, que fue diseñado como ejemplo para aprender un poco mas sobre Git y GitHub.
