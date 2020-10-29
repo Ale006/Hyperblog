@@ -13,6 +13,7 @@ Un blog de prueba para el curso de GIt y GitHub de Platzi
 - El verdadero amor por las buenas practicas
 - Trucos muy locos del profesor
 - Creado por AlexistoGame
+- Incluye ejemplos en Windows Linux y Mac
 
 
 # Recodatorio
