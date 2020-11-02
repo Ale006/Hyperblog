@@ -14,6 +14,8 @@ Un blog de prueba para el curso de GIt y GitHub de Platzi
 - Trucos muy locos del profesor
 - Creado por AlexistoGame
 
+- Incluye ejemplos en Windows Linux y Mac
+- Disponiles para todas las edades
 
 # Recodatorio
 Este Readme.md es un chiste, que fue diseñado como ejemplo para aprender un poco mas sobre Git y GitHub.
